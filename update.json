@@ -3,12 +3,12 @@
     {
       "title" : "app1",
       "version" : 1,
-      "url" : "http://s98948lj.beget.tech/app1.apk"
+      "url" : "https://raw.githubusercontent.com/riodevista/ar_sceneviewer/main/app1.apk"
     },
     {
       "title" : "app2",
       "version" : 1,
-      "url" : "http://s98948lj.beget.tech/app2.apk"
+      "url" : "https://raw.githubusercontent.com/riodevista/ar_sceneviewer/main/app2.apk"
     }
   ]
 }
